@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "title": "Harry potter",
+      "author": "JK rowling",
+      "price": 100,
+      "id": "2a11"
+    },
+    {
+      "title": "Pride and prejudice",
+      "author": "Jane Austen",
+      "price": 200,
+      "id": "7686"
+    }
+  ]
+}
